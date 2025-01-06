@@ -35,7 +35,7 @@ Instructions:
 
 
 **Applied Physics - PH 101**
-  - **Applied Chemistry and Environment (4 Credit Hours)**
+  - **Applied Physics and Labs (4 Credit Hours)**
 
 Instructions: 
 
